@@ -30,7 +30,7 @@ namespace EnumPractice1
 
             MonthsOfYear inputAsEnum = (MonthsOfYear)inputAsNumber;
             Console.WriteLine(inputAsEnum);
-            Console.ReadLine();
+            
 
         }
     }
